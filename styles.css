@@ -1,0 +1,74 @@
+.card{
+    max-width: 400px;
+    margin: 40px auto;
+    background: linear-gradient(135deg, #c8dbea, #b6d6ee);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(94, 90, 90, 0.1);
+}
+
+.avatar-container{ 
+    margin-bottom: 20px;
+}
+
+.avatar{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+    border-color: black;
+}
+
+.description{
+    margin-bottom: 15px;
+    color: #333;
+    text-align: justify;
+}
+
+.contact{
+    margin-bottom: 15px;
+    color: #333;
+    text-align: left;
+}
+
+.links a {
+    margin-bottom:0 15px;
+    text-decoration: none;
+    color:rgba(7, 7, 7, 0.603) ;
+    font-weight: bold;
+}
+
+.link-card{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px 20px;
+    color:rgba(7, 7, 7, 0.603) ;
+    background:rgb(103, 162, 229);
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.card ul{
+    text-align: left;
+    margin-top: 10px;
+    color: #333;
+    font-family: Times New Roman;
+}
+
+.card li{
+    margin-bottom: 8px;
+    color: #333;
+    font-family: Times New Roman;
+}
+.card info-list {
+    margin-bottom: 8px;
+    color: #333;
+    font-family: Times New Roman;
+}
+.card h2 {
+    margin-bottom: 8px;
+    color: #333;
+    font-family: Times New Roman;
+}
